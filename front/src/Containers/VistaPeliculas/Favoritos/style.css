@@ -1,0 +1,18 @@
+.Favoritos {
+    display: flex;
+    flex-direction: column;
+    min-height: 10vh;
+    background-color: rgb(81, 81, 229);
+    padding:2vh 1vw;
+}
+.fav{
+    color:white;
+    font-weight:lighter;
+}
+hr{
+    width:100%;
+}
+.Fpelicula{
+    width:5vw;
+    height:5vh;
+}

@@ -1,0 +1,13 @@
+.Footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height:10.5vh;
+    background: rgb(81, 81, 229);
+}
+    .Footer h3 {
+        font-family: 'Nunito', sans-serif;
+        color: white;
+    }

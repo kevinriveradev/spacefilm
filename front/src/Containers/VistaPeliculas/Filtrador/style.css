@@ -1,0 +1,23 @@
+.contenedorFiltrador {
+    display: flex;
+    margin-top: 8vh;
+    flex-direction: column;
+    width: 14vw;
+    height: 30vh;
+    justify-content: center;
+    padding: 1vh 2vw;
+    margin-bottom: 10vh;
+    background: -webkit-linear-gradient(225deg, rgb(81, 81, 229) 1%, rgb(101, 207, 233) 100vh);
+}
+.formularioFiltro form{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+}
+    .contenedorFiltrador input {
+        margin: 2vh 0vw;
+        
+    }
+.btnbuscar {
+     background: -webkit-linear-gradient(225deg, rgb(81, 81, 229) 1%, rgb(101, 207, 233) 100vh);
+}

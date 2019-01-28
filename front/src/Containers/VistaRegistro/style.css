@@ -1,0 +1,29 @@
+.ContainerVistaRegistro {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 80vh;
+    background: linear-gradient(225deg, rgb(81, 81, 229) 1%, rgb(101, 207, 233) 100vh);
+}
+
+.ContainerFormularioRegistro {
+    display: flex;
+    flex-direction: column;
+}
+
+.ContainerFormularioRegistro form {
+        display: flex;
+        flex-direction: column;
+        width: 20vw;
+        height: 60vh;
+        justify-content: space-around;
+        
+}
+.FormularioRegistro h2{
+    text-align:center;
+}
+.FormularioRegistro  h2, span,label {
+        color: white;
+}

@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    flex-direction: row;
+    max-width: 97vw;
+    padding: 0vh 5vw;
+    background-color: rgb(81, 81, 229);
+}
+header h3{
+    color:white;
+    font-style:italic;
+
+}
+.link{
+    color:white;
+    text-decoration:none;
+    margin:0vh 2vw;
+}
+.logo{
+    width:30vw;
+}
+.navegacion{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    width:40vw;
+}
+.nombreUsuario{
+    margin:0vh 1vw;
+}
+.usuario{
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-end;
+    align-items:center;
+    width:30vw;
+}
+.cerrarSesion{
+    width:2.8vw;
+}

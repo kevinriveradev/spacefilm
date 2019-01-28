@@ -1,0 +1,27 @@
+.ContainerFichaActor {
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    width: 100vw;
+    height: 100vh;
+   background: linear-gradient(225deg, rgb(81, 81, 229) 1%, rgb(101, 207, 233) 100vh);
+}
+.FichaPelicula{
+    display:flex;
+    flex-direction:row;
+    height:60vh;
+    
+}
+.FichaPelicula h2{
+    color:white;
+}
+.avatar{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    width:50vw;
+}
+.avatar img{
+    width:50%;
+}

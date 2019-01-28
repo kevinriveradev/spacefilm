@@ -1,0 +1,24 @@
+.ContainerVistaActores {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #ededed;
+}
+.conteinerActores{
+    margin-top:10vh;
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    width:80vw;
+}
+.ContenedorActor{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:center;
+    width:20vw;
+}
+

@@ -1,0 +1,33 @@
+.Pelicula {
+    display: flex;
+    flex-direction: column;
+    margin: 2vh 2vw;
+    width: 20vw;
+    max-height: 60vh;
+    justify-content: space-between;
+    padding: 2vh 0vw;
+    background: linear-gradient(225deg, rgb(81, 81, 229) 1%, rgb(101, 207, 233) 100vh);
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+}
+.posterPelicula{
+    max-width:20vw;
+    max-height:40vh;
+}
+.tituloPelicula{
+    color:white;
+    text-align:center;
+}
+.itemPelicula{
+    display:flex;
+    justify-content:center;
+}
+.btnFilm {
+    width:50%;
+}
+span{
+    text-decoration:none;
+    font-weight:bold;
+}

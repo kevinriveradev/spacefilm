@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Comunes\\Footer",
+    "\\src\\Containers\\VistaFichaPelicula",
+    "\\src\\Containers\\VistaPeliculas\\Filtrador",
+    "\\src\\Servicios\\ServicioActores",
+    "\\src\\Servicios\\ServicioPeliculas",
+    "\\src\\Servicios\\ServicioPeliculasUsuario",
+    "\\src\\Servicios\\ServicioUsuario"
+  ],
+  "SelectedNode": "\\src\\Comunes",
+  "PreviewInSolutionExplorer": false
+}

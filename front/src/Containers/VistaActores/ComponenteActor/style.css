@@ -1,0 +1,37 @@
+.Actor {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 25vw;
+    background: -webkit-linear-gradient(225deg, rgb(81, 81, 229) 1%, rgb(101, 207, 233) 100vh);
+    height: 35vh;
+    margin: 2%;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+}
+.actorFoto{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    height:15vh;
+}
+.actorNombre{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    align-items:center;
+}
+.actorFicha{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.Actor img{
+    width:50%;
+}
+.Actor h4{
+    color:white;
+}

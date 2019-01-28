@@ -1,0 +1,22 @@
+.ContainerVistaPeliculas {
+    display:flex;
+    flex-direction:row;
+    min-height:100vh;
+    max-width:98.6vw;
+    background-color: #ededed;
+    padding:5vh 2vw;
+}
+.ContainerFiltro {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    min-height: 20vh;
+    align-items: center;
+}
+.ContainerListaPeliculas{
+    display:flex;
+    padding:6vh 2vw;
+    flex-direction:row;
+    justify-content:center;
+    flex-wrap:wrap;
+}
